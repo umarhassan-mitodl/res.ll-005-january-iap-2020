@@ -1,0 +1,37 @@
+leftnav:
+- identifier: 0cd7ce1c-2ba7-9a20-0a67-821d6e5c8323
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: efd65719-a23a-09e5-c189-f398b3334ee2
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: f92007e0-b0a4-d056-03fc-a626c1bda568
+  name: A Novel Course on a New Technology
+  pageRef: /pages/instructor-insights/a-novel-course-on-a-new-technology
+  parent: efd65719-a23a-09e5-c189-f398b3334ee2
+  weight: 30
+- identifier: ff36ecd8-eeaf-ee37-3b35-8606a9c6bb0e
+  name: Lectures as Performance
+  pageRef: /pages/instructor-insights/lectures-as-performance
+  parent: efd65719-a23a-09e5-c189-f398b3334ee2
+  weight: 40
+- identifier: ae1a5e67-8996-e7a5-1e2e-26f4f24cd7d3
+  name: Homework Assignments that Spotlight Application
+  pageRef: /pages/instructor-insights/homework-assignments-that-spotlight-application
+  parent: efd65719-a23a-09e5-c189-f398b3334ee2
+  weight: 50
+- identifier: bafbe7dc-c88e-69c4-e292-aa975e9fe49f
+  name: Valuing Concept Transition
+  pageRef: /pages/instructor-insights/valuing-concept-transition
+  parent: efd65719-a23a-09e5-c189-f398b3334ee2
+  weight: 60
+- identifier: a089af96-9073-c2c0-3554-6fa1d28d62d2
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 70
+- identifier: 22ed3115-fb6b-8a6b-f2e9-075e053e3953
+  name: Class Videos
+  pageRef: /video_galleries/class-videos
+  weight: 80
