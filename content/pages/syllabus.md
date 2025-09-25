@@ -38,24 +38,24 @@ This course is originally taught in 2012 as "D4M: Signal Processing on Databases
 Software Download
 -----------------
 
-The D4M software can be downloaded from the {{% resource_link "edee8180-f527-4a05-b41a-ef3f6423bd80" "D4M website" %}}. This software also includes code examples used in class.
+The D4M software can be downloaded from the [D4M website](http://d4m.mit.edu/). This software also includes code examples used in class.
 
 Motivational Material
 ---------------------
 
-{{% resource_link "7b45d7d6-56a1-44d8-84f2-cc3d37127702" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kepner, J. and H. Jananthan. _Mathematics of Big Data: Spreadsheets, Databases, Matrices, and Graphs._ MIT Press, 2018. ISBN: 9780262038393. \[Preview with {{% resource_link "a18a5ede-11a6-48f6-aff6-406ea4326407" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262038393) Kepner, J. and H. Jananthan. _Mathematics of Big Data: Spreadsheets, Databases, Matrices, and Graphs._ MIT Press, 2018. ISBN: 9780262038393. \[Preview with [Google Books](https://books.google.com/books?id=4vBoDwAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)\]
 
 Primary Citation
 ----------------
 
-Kepner, J. et al. "{{% resource_link "2587c8d7-0c56-4f89-827b-5bcc649640cc" "Dynamic Distributed Dimensional Data Model (D4M) Database and Computation System" %}}." Presented at ICASSP (International Conference on Acoustics, Speech, and Signal Processing), special session on Signal and Information Processing for "Big Data," March 25–30, 2012, Kyoto, Japan.
+Kepner, J. et al. "[Dynamic Distributed Dimensional Data Model (D4M) Database and Computation System](http://dx.doi.org/10.1109/ICASSP.2012.6289129)." Presented at ICASSP (International Conference on Acoustics, Speech, and Signal Processing), special session on Signal and Information Processing for "Big Data," March 25–30, 2012, Kyoto, Japan.
 
 Additional Resource
 -------------------
 
-{{% resource_link "724bba54-f857-4581-8bcb-9ad9f9f8855a" "D4M Baseball Demo by Dylan Hutchison" %}}
+[D4M Baseball Demo by Dylan Hutchison](https://github.com/denine99/d4mBB)
 
 Currently Supported Environments and Databases
 ----------------------------------------------
 
-{{% resource_link "fe81d24b-8078-460d-a7b1-cda9b8f4be64" "MATLAB" %}} and {{% resource_link "418e7181-0764-4de6-932c-14d419d673fd" "GNU Octave (with Octave Java)" %}}; triplestores ({{% resource_link "a7dc82af-8ec4-478b-a8ad-8047725da0e3" "Accumulo" %}} and potentially {{% resource_link "60f1d582-8ddd-4735-90d4-ccd2afc7bee8" "HBase" %}}); SQL (via JTDS bindings).
+[MATLAB](http://www.mathworks.com/) and [GNU Octave (with Octave Java)](http://www.gnu.org/software/octave/); triplestores ([Accumulo](http://accumulo.apache.org/) and potentially [HBase](http://hbase.apache.org/)); SQL (via JTDS bindings).

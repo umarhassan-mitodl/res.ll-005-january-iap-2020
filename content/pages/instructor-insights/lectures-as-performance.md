@@ -35,4 +35,4 @@ After building the website, we thought, “This is stupid. This is a lot of work
 
 I call it my $10 billion mistake.
 
-I also engage the audience by emphasizing the novelty of the course material. {{% resource_link "557fb46f-6711-4aec-80d8-7dfaf9a4c351" "D4M" %}} is at the leading edge of technology. I tell the people in my audience that they’re not going to find this information in textbooks right now. Most people really appreciate an opportunity to learn at the forefront of the field.
+I also engage the audience by emphasizing the novelty of the course material. [D4M](http://www.mit.edu/~kepner/D4M/) is at the leading edge of technology. I tell the people in my audience that they’re not going to find this information in textbooks right now. Most people really appreciate an opportunity to learn at the forefront of the field.
