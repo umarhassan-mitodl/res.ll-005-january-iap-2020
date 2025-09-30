@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/7311378c6e1194415d5bb278083d4987_res-ll-005iap20.jpg
 file_size: 108735
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: '"Big Data" refers to a technological phenomenon that has emerged since
     the mid-1980s. As computers have improved in capacity and speed, the greater storage

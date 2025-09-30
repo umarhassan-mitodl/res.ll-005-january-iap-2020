@@ -4,6 +4,8 @@ description: This resource contains information regarding introduction.
 file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/2ff0a6db96706fa91f77ad0cbefc3a03_MITRES_LL_005F12_Lec0.pdf
 file_size: 2420851
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

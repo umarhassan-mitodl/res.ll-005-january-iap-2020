@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/eac5efdea37baa607a1345ec1dbd5633_JeremyKepner-1.png
 file_size: 1186967
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

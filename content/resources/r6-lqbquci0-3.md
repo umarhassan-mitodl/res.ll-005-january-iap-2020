@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/7a95891234b4363ea11d002bf10e4e6b_R6-LQbqUCI0.pdf
 file_size: 36519
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
