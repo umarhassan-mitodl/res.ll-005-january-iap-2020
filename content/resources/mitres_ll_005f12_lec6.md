@@ -4,8 +4,6 @@ description: This resource contains information regarding bio sequence cross cor
 file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/37c2f183cb766850be9928a85bf0b59a_MITRES_LL_005F12_Lec6.pdf
 file_size: 1657303
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

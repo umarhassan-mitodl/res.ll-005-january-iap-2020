@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: 'TLP 2: Lectures as Performance'
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -37,4 +35,4 @@ After building the website, we thought, “This is stupid. This is a lot of work
 
 I call it my $10 billion mistake.
 
-I also engage the audience by emphasizing the novelty of the course material. [D4M](http://www.mit.edu/~kepner/D4M/) is at the leading edge of technology. I tell the people in my audience that they’re not going to find this information in textbooks right now. Most people really appreciate an opportunity to learn at the forefront of the field.
+I also engage the audience by emphasizing the novelty of the course material. {{% resource_link "d0d0674b-aabf-4b79-b69a-21ca4db8fbc5" "D4M" %}} is at the leading edge of technology. I tell the people in my audience that they’re not going to find this information in textbooks right now. Most people really appreciate an opportunity to learn at the forefront of the field.

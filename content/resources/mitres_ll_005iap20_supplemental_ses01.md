@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/401f741bad396cbf0fcf9ae7b79e1029_MITRES_LL_005IAP20_Supplemental_Ses01.pdf
 file_size: 4136524
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

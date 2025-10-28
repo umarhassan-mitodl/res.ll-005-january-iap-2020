@@ -2,8 +2,6 @@
 content_type: page
 description: This page contains all lecture notes in this Lincoln Lab D4M class of
   spring, 2012.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: SupplementalResourceSection

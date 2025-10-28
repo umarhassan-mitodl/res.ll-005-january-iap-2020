@@ -5,8 +5,6 @@ description: This resource contains information regarding kronecker graphs, data
 file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/4ad134fa147c4fe1df1a0900bcd03dd7_MITRES_LL_005F12_Lec8.pdf
 file_size: 1997187
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

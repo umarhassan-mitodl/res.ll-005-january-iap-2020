@@ -3,8 +3,6 @@ content_type: video_gallery
 description: 'This page provides the full collection of class videos, including the
   lecture sessions as well as the demo sessions, in this Lincoln Lab course, D4M:
   Signal Processing on Database of January 2020.'
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection

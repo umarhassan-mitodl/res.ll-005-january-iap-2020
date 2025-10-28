@@ -10,8 +10,8 @@ image_metadata:
     and processing possibilities have also generated new challenges. New analytical
     tools, including the ones introduced in this course, have since been developed
     to solve these challenges in management of those phenomenally large data sets.
-    (Image source: [DARPA](https://commons.wikimedia.org/wiki/File:DARPA_Big_Data.jpg)/public
-    domain.)'
+    (Image source: {{% resource_link "b6fbdaac-7a11-49e5-aed9-68472810a74e" "DARPA"
+    %}}/public domain.)'
   credit: ''
   image-alt: Many arrays of numbers 0 and 1 in a dark blue background
 learning_resource_types: []

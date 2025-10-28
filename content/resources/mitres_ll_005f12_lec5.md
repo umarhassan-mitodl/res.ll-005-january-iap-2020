@@ -4,8 +4,6 @@ description: This resource contains information regarding perfect power law grap
 file: /courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/8a0a7bae75f01333c42283e25dc898d3_MITRES_LL_005F12_Lec5.pdf
 file_size: 4272933
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
