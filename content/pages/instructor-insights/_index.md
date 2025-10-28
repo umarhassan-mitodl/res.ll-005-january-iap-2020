@@ -19,7 +19,7 @@ Search, social media, ad placement, mapping, tracking, spam filtering, fraud det
 
 ### Course Goals for Students
 
-- Gain an awareness of [D4M: Dynamic Distributed Dimensional Data Model](http://www.mit.edu/~kepner/D4M/), a breakthrough in computer programming that combines the advantages of five distinct processing technologies to provide a database and computation system that addresses the problems associated with Big Data
+- Gain an awareness of {{% resource_link "d0d0674b-aabf-4b79-b69a-21ca4db8fbc5" "D4M: Dynamic Distributed Dimensional Data Model" %}}, a breakthrough in computer programming that combines the advantages of five distinct processing technologies to provide a database and computation system that addresses the problems associated with Big Data
 - Become facile with D4M, such that participants can begin applying it to their own problems
 - Understand the new mathematical concepts that have emerged as a result of bringing together signal processing and Big Data concepts
 
